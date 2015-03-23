@@ -8,6 +8,7 @@ Para los comerciantes, el cálculo del precio es así:
 * a los whiskies se les recarga un 50%
 
 Para los particulares, el cálculo del precio es así:
+
 * a las aguas minerales se les recarga un 30%
 * a las gaseosas se les recarga un 40%
 * a las bebidas alcohólicas nacionales se les recarga un 60%.
@@ -17,6 +18,7 @@ Las bebidas sin alcohol son aguas y gaseosas.
 Las bebidas alcohólicas son vinos y whiskies.
 
 Tener en cuenta estos productos:
+
 *  Villavicencio, que es un agua mineral, costo $2.
 *  Glaciar, que es un agua mineral, costo $3.
 *  CocaCola, gaseosa, costo $4.
