@@ -6,7 +6,6 @@ A cada competidor se le asigna un puntaje por cada prueba, y finalmente un punta
 Los resultados de la competencia son los siguientes:
 
 ```prolog
-
 metrosLanzamiento(ricky,10).
 metrosLanzamiento(lowy,8).
 metrosLanzamiento(gonza,13).
