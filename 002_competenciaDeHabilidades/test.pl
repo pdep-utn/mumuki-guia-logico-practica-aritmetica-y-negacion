@@ -75,4 +75,3 @@ test(roli_saco_0_total,nondet):-
 
 test(jess_saco_0_total,nondet):-
 	puntajeTotal(jess,0).
-
