@@ -35,5 +35,5 @@ y estos clientes
 *  Luisa y Rubén, que son particulares.
 *  Zoraida y Ramón, que son comerciantes.
 
-Además, definir el predicado `calcularPrecio/3` que relaciona a un vendedor y una bebida
+Además, definir el predicado `calcularPrecio/3` que relaciona a un cliente y una bebida
 con el precio de venta
