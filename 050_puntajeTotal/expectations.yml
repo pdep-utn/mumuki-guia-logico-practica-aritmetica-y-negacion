@@ -1,5 +1,5 @@
 expectations:
-- binding: puntajePuntal
+- binding: puntajeTotal
   inspection: HasBinding
 - binding: puntajeLanzamientoPrecision
   inspection: Not:HasBinding
