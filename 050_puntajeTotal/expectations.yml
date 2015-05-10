@@ -1,0 +1,11 @@
+expectations:
+- binding: puntajePuntal
+  inspection: HasBinding
+- binding: puntajeLanzamientoPrecision
+  inspection: Not:HasBinding
+- binding: puntajeFuerzaMartillo
+  inspection: Not:HasBinding
+- binding: puntajeEquilibrioEscoba
+  inspection: Not:HasBinding
+
+

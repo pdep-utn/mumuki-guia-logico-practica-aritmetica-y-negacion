@@ -1,2 +1,11 @@
 locale: es
 language: prolog
+order:
+- 20
+- 30
+- 40
+- 10
+- 1
+- 2
+- 50
+- 3
