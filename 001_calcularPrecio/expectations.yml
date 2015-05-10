@@ -1,0 +1,9 @@
+expectations:
+- binding: calcularPrecio
+  inspection: HasBinding
+- binding: recargo
+  inspection: HasBinding
+- binding: esAlcoholica
+  inspection: Not:HasBinding
+- binding: calcularPrecio
+  inspection: HasUsage:recargo
