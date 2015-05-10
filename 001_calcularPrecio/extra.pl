@@ -12,13 +12,12 @@ esAgua(glaciar).
 esGaseosa(cocacola).
 esGaseosa(goliat).
 
-esVino(bianchi).
-esVino(trapiche).
-esVino(richelieu).
-esVino(cucagna).
-
-esWhisky(criadores).
-esWhisky(grants).
+esAlcoholica(bianchi).
+esAlcoholica(trapiche).
+esAlcoholica(richelieu).
+esAlcoholica(cucagna).
+esAlcoholica(criadores).
+esAlcoholica(grants).
 
 esParticular(luisa).
 esComerciante(zoraida).
