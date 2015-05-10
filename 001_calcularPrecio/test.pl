@@ -16,9 +16,6 @@ test(precio_agua_comerciante,nondet):-
 test(precio_gaseosa_comerciante,nondet):-
 	calcularPrecio(zoraida, cocacola,4).
 
-test(precio_alcoholica_importado_con_porcentaje_comerciante,nondet):-
-	calcularPrecio(zoraida, cucagna,X),X is 18*1.2.
-
 test(precio_alcoholica_nacional_comerciante,nondet):-
 	calcularPrecio(zoraida, criadores,X),X is 20*1.3.
 
