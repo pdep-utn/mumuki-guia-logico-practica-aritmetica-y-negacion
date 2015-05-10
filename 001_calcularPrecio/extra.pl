@@ -1,6 +1,6 @@
-esImportado(richelieu).
-esImportado(grants).
-esImportado(cucagna).
+esImportada(richelieu).
+esImportada(grants).
+esImportada(cucagna).
 
 esNacional(bianchi).
 esNacional(trapiche).
