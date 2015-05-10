@@ -14,16 +14,18 @@ Y para los particulares, el cálculo del precio es así:
 * a las bebidas alcohólicas importadas se les recarga un 70%.
 
 Desarrollar el predicado `calcularPrecio/3` que relaciona a un cliente, una bebida
-y un precio de venta. Considerar que los siguientes predicados ya se encuentran definidos:
+y un precio de venta. Ejemplo de uso:
+
+```prolog
+calcularPrecio(luisa, trapiche, Precio).
+Precio = ...
+```
+
+**Nota**: Considerar que los siguientes predicados ya se encuentran definidos:
+
   * esImportado/1, esNacional/1
   * esAgua/1, esGaseosa/1
   * esAlcoholica/1
   * costo/2: que relaciona a una bebida con su costo
   * esParticular/1, esComerciante/1
 
-Ejemplo de uso:
-
-```
-calcularPrecio(luisa, trapiche, Precio).
-Precio = ...
-```
