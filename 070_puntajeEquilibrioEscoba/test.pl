@@ -1,6 +1,6 @@
 test(gonza_saco_3_en_escoba,nondet):-
 	puntajeEquilibrioEscoba(gonza,X),
-  assertion(X == 3)
+  assertion(X == 3).
 
 test(lowy_saco_2_en_escoba,nondet):-
 	puntajeEquilibrioEscoba(lowy, X),
