@@ -24,7 +24,7 @@ esComerciante(zoraida).
 
 costo(villavicencio, 2).
 costo(glaciar, 3).
-costo(cocacola, 4)
+costo(cocacola, 4).
 costo(goliat, 1).
 costo(bianchi, 7).
 costo(trapiche, 12).
