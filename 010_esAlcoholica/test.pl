@@ -1,11 +1,11 @@
 test(el_agua_no_es_bebida_alcoholica, fail) :-
-  esAlcoholica(agua).
+  esAlcoholica(villavicencio).
 
 test(el_vino_es_bebida_alcoholica) :-
-  esAlcoholica(vino).
+  esAlcoholica(trapiche).
 
 test(el_whisky_es_bebida_alcoholica) :-
-  esAlcoholica(whisky).
+  esAlcoholica(criadores).
 
 test(el_jugo_de_naranja_no_es_bebida_alcoholica, fail) :-
-  esAlcoholica(jugoDeNaranja).
+  esAlcoholica(tangNaranja).
