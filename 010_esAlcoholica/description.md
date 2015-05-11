@@ -3,7 +3,7 @@ En una casa de bebidas, queremos saber si una bebida es alcoholica o no. Se sabe
 * El agua y las gaseosas no tienen alcohol.
 * Los vinos y whiskies tienen alcohol
 
-Desarrollar el predicado `esAlcholica/1`. Ejemplo de uso:
+Desarrollar el predicado `esAlcoholica/1`. Ejemplo de uso:
 
 ```prolog
 ? esAlcoholica(criadores).
