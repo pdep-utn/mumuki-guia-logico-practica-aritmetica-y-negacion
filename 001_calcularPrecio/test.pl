@@ -33,7 +33,7 @@ test('si el costo de alcoholica nacional es 20, el precio comerciante es 26',non
   assertion(X == Y).
 
 test('si el costo de alcoholica importada es 30, el precio comerciante es 39',nondet):-
-  calcularPrecio(zoraida, grants,X)
+  calcularPrecio(zoraida, grants,X),
   Y is 30 * 1.3,
   assertion(X == Y).
 
