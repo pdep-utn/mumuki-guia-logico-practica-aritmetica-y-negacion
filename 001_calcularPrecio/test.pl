@@ -24,12 +24,12 @@ test('si el costo de agua es 2, el costo comerciante es 2.5',nondet):-
   assertion(X == Y).
 
 test('si el costo de gaseosa es 4, el precio comerciante es 4',nondet):-
-  calcularPrecio(zoraida, cocacola,4),
+  calcularPrecio(zoraida, cocacola,X),
   assertion(X == 4).
 
 test('si el costo de alcoholica nacional es 20, el precio comerciante es 26',nondet):-
-  calcularPrecio(zoraida, criadores, X)
-  Y  X is 20 * 1.3,
+  calcularPrecio(zoraida, criadores, X),
+  X is 20 * 1.3,
   assertion(X == Y).
 
 test('si el costo de alcoholica importada es 30, el precio comerciante es 39',nondet):-
