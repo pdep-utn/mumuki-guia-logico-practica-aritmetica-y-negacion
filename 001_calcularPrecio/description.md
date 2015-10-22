@@ -23,7 +23,7 @@ Precio = ...
 
 **Nota**: Considerar que los siguientes predicados ya se encuentran definidos:
 
-  * esImportado/1, esNacional/1
+  * esImportada/1, esNacional/1
   * esAgua/1, esGaseosa/1
   * esAlcoholica/1
   * costo/2: que relaciona a una bebida con su costo
