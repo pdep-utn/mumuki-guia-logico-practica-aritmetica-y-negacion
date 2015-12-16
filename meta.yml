@@ -1,7 +1,5 @@
----
+name: 'Práctica Aritmética y Negación'
 locale: es
-learning: false
-beta: false
 language: prolog
 original_id_format: '%05d'
 order:
