@@ -1,2 +1,0 @@
-esVino(trapiche).
-esWhisky(criadores).

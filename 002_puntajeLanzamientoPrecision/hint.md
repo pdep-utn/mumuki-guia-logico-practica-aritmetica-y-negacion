@@ -1,1 +1,0 @@
-El predicado `between/3` puede servir de ayuda.

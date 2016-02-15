@@ -1,7 +1,7 @@
 ---
 tags:
-- comparaciones
-- guia2
 - pdep
-locale: es
+- guia2
+- comparaciones
 layout: editor_right
+type: problem

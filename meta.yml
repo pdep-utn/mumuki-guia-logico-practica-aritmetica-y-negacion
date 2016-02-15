@@ -1,15 +1,28 @@
-name: 'Práctica Aritmética y Negación'
+---
+name: Práctica Inversibilidad y Cuantificación
 locale: es
+type: practice
+beta: false
 language: prolog
-original_id_format: '%05d'
+id_format: '%05d'
 order:
 - 20
+- 20
+- 30
 - 30
 - 40
+- 40
+- 10
 - 10
 - 1
+- 1
+- 2
 - 2
 - 60
+- 60
+- 70
 - 70
 - 50
+- 50
+- 3
 - 3

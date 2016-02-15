@@ -1,7 +1,7 @@
 ---
 tags:
-- basico
-- guia2
 - pdep
-locale: es
+- guia2
+- basico
 layout: editor_right
+type: problem

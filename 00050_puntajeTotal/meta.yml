@@ -1,7 +1,7 @@
 ---
 tags:
-- aritmetica
-- guia2
 - pdep
-locale: es
+- guia2
+- aritmetica
 layout: editor_right
+type: problem

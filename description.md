@@ -1,1 +1,1 @@
-Adaptación de la guía 2 de Lógico de PdeP UTN FRBA.  Con ejercicios sobre aritmética y negación
+¡Ya vimos muchos temas nuevos! Aritmética, inversibiidad, `not`, `forall`... ¡es hora de practicar!

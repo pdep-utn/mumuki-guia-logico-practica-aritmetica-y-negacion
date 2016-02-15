@@ -1,8 +1,8 @@
 ---
 tags:
-- aritmetica
-- basico
-- guia2
 - pdep
-locale: es
+- guia2
+- basico
+- aritmetica
 layout: editor_right
+type: problem
