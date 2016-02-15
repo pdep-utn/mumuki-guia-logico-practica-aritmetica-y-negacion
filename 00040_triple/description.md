@@ -1,1 +1,1 @@
-﻿Definir un predicado `triple`, que relacione un número con su triple.
+Definí un predicado `triple`, que relacione un número con su triple.
