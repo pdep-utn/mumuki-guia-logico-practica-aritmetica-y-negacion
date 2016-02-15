@@ -1,4 +1,4 @@
-Armar un programa Prolog que resuelva el siguiente problema lógico:
+Escribí un programa Prolog que resuelva el siguiente problema lógico:
 
 * Un asesino siempre odia a su víctima y nunca es más rico que ella. El asesino de la	tía Agatha, además, vive en la mansión Dreadbury.
 *  Tía Agatha, el carnicero y Charles son las únicas personas que viven en la mansion.
