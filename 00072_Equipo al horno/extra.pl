@@ -1,14 +1,14 @@
-pertence(jose, a).
-pertence(pedro, b).
-pertence(analia, c).
-pertence(maria, c).
-pertence(maria, d).
-pertence(analia, d).
-pertence(hector, d).
+perteneceA(jose, a).
+perteneceA(pedro, b).
+perteneceA(analia, c).
+perteneceA(maria, c).
+perteneceA(maria, d).
+perteneceA(analia, d).
+perteneceA(hector, d).
 
 fueraDeJuego(jose).
 
 energia(pedro, 5).
 energia(analia, 5).
-energia(maria, 1)..
+energia(maria, 1).
 energia(hector, 12).
