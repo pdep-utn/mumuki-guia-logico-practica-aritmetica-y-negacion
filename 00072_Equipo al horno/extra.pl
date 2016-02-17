@@ -8,7 +8,7 @@ perteneceA(hector, d).
 
 fueraDeJuego(jose).
 
-energia(pedro, 5).
-energia(analia, 5).
-energia(maria, 1).
-energia(hector, 12).
+nivelDeEnergia(pedro, 5).
+nivelDeEnergia(analia, 5).
+nivelDeEnergia(maria, 1).
+nivelDeEnergia(hector, 12).
