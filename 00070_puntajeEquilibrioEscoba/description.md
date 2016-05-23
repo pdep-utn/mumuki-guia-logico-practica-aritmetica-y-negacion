@@ -10,7 +10,7 @@ metrosEscoba(ricky,13).
 Queremos conocer el puntaje de un competidor en esta prueba, sabiendo que
 Y el puntaje de la prueba es 1 punto cada 3 metros recorridos.
 
-Desarrollar los predicados `puntajeEquilibrioEscoba/2` que relaciona a un competidor con su puntaje obtenido en esta prueba. Ejemplo:
+Desarrollar los predicado `puntajeEquilibrioEscoba/2` que relaciona a un competidor con su puntaje obtenido en esta prueba. Ejemplo:
 
 ```
 ? puntajeEquilibrioEscoba(ricky, Puntaje).

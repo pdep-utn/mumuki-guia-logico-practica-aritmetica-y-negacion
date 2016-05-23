@@ -13,7 +13,7 @@ Ahora queremos conocer el puntaje que un competidor obtuvo en esta prueba, segú
 * De 5 a 10 metros: 6 puntos.
 * Más de 10 metros: 9 puntos + 2 puntos adicionales por cada metro extra, p.ej. 13 metros => 15 puntos.
 
-Desarrollar el predicados `puntajeFuerzaMartillo/2`, que relaciona a un competidor con el puntaje que obtuvo.
+Desarrollar el predicado `puntajeFuerzaMartillo/2`, que relaciona a un competidor con el puntaje que obtuvo.
 
 
 
