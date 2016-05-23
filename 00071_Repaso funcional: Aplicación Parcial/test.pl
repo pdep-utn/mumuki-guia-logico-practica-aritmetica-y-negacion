@@ -21,4 +21,4 @@ test('tipoDeAplicacion(2, 0, Tipo)') :-
   assertion(Tipo == sinAplicar).
 
 test('tipoDeAplicacion(4, CantidadDeArgumentos, parcial)') :-
-    findall(C, tipoDeAplicacion(4, C, parcial), [3, 2, 1]), 
+    findall(C, tipoDeAplicacion(4, C, parcial), [3, 2, 1]).
