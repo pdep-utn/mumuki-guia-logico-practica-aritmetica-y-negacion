@@ -20,7 +20,7 @@ test('tipoDeAplicacion(2, 0, Tipo)') :-
   tipoDeAplicacion(4, 0, Tipo),
   assertion(Tipo == sinAplicar).
 
-test('tipoDeAplicacion(4, CantidadDeArgumentos, parcial)', [member(C, [1,2,3])]) :-
+test('tipoDeAplicacion(4, CantidadDeArgumentos, parcial)', [true(member(C, [1,2,3]))]) :-
     tipoDeAplicacion(4, C, parcial).
 
     
