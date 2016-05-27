@@ -8,13 +8,13 @@ test('tipoDeAplicacion(4, 3, parcial)') :-
   tipoDeAplicacion(4, 3, parcial).
 
 test('no tipoDeAplicacion(4, 4, parcial)') :-
- \+ tipoDeAplicacion(4, 4, parcial).
+ not(tipoDeAplicacion(4, 4, parcial)).
 
 test('tipoDeAplicacion(4, 2, parcial)') :-
   tipoDeAplicacion(4, 2, parcial).
 
 test('no tipoDeAplicacion(4, 0, parcial)') :-
-  \+ tipoDeAplicacion(4, 0, parcial).
+  not(tipoDeAplicacion(4, 0, parcial)).
 
 test('tipoDeAplicacion(2, 0, Tipo)') :-
   tipoDeAplicacion(4, 0, Tipo),

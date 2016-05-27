@@ -5,6 +5,8 @@ perteneceA(maria, c).
 perteneceA(maria, d).
 perteneceA(analia, d).
 perteneceA(hector, d).
+perteneceA(jose, e).
+perteneceA(pedro, e).
 
 fueraDeJuego(jose).
 
