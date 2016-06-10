@@ -7,7 +7,7 @@ test('si ningun miembro pertence a otro equipo, no es cipayo', fail):-
 test('si un sólo miebro pertence a otro equipo, no es cipayo', fail):-
   equipoCipayo(b).
   
-test('si dos miembros pertencen a otro equipo, pero uno no, sigue siendo cipayo'):-
+test('si dos miembros pertencen a otro equipo, pero uno no, sigue siendo cipayo', nondet):-
   equipoCipayo(pecesGordos).
 
 test('si dos miembros pertencen a otro equipo (distintos para cada uno), es cipayo'):-
