@@ -12,3 +12,6 @@ test('esta al horno si tiene dos integrantes y uno esta debil y el otro fuera de
   
 test('no esta al horno si uno de sus integrantes esta en el juego no debil') :-
   \+ alHorno(d).
+  
+test('esta al horno es inversible y se relaciona con los equipos al horno', set(Equipos == [a, b, c, e])) :-
+  alHorno(Equipos).
