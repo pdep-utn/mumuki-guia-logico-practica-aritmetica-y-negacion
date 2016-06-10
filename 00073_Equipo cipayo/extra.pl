@@ -7,6 +7,17 @@ perteneceA(maria, d).
 perteneceA(analia, d).
 perteneceA(hector, d).
 
+perteneceA(juan, pecesGordos).
+perteneceA(gaston, pecesGordos).
+perteneceA(lean, pecesGordos).
+perteneceA(juan, maiusArmy).
+perteneceA(gaston, maiusArmy).
+
+perteneceA(gus, niuflo).
+perteneceA(ramiro, niuflo).
+perteneceA(lean, niuflo).
+perteneceA(gus, theBTrees).
+
 fueraDeJuego(jose).
 
 energia(pedro, 5).
