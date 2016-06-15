@@ -14,3 +14,4 @@ nivelDeEnergia(pedro, 5).
 nivelDeEnergia(analia, 5).
 nivelDeEnergia(maria, 1).
 nivelDeEnergia(hector, 12).
+nivelDeEnergia(jose, 15).
