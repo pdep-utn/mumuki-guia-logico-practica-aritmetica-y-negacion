@@ -36,4 +36,4 @@ Faltante = cacheDistribuida.
 
 Indica si una tarea puede ser realizada. Una tarea puede ser realizada cuando no fue realizada ya y todas sus precedentes han sido realizadas.
 
-Se espera que sea inversible y que reutilice meFaltaPara/2.
+Se espera que los 3 predicados sean inversibles y que puedoHacer/1 use meFaltaPara/2.
