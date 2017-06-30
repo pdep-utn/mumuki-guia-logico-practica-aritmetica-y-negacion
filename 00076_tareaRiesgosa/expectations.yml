@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: tareaRiesgosa
+  inspection: HasBinding
+- binding: tareaRiesgosa
+  inspection: HasArity:1
