@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: tareaRiesgosa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tareaRiesgosa
   inspection: HasBinding
-- binding: tareaRiesgosa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tareaRiesgosa
   inspection: HasArity:1

@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: calcularPrecio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: calcularPrecio
   inspection: HasBinding
-- binding: recargo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: recargo
   inspection: HasBinding
-- binding: esAlcoholica
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esAlcoholica
   inspection: Not:HasBinding
-- binding: calcularPrecio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: calcularPrecio
   inspection: HasUsage:recargo

@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: esAlcoholica
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esAlcoholica
   inspection: HasBinding
-- binding: esAlcoholica
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esAlcoholica
   inspection: HasUsage:esVino
-- binding: esAlcoholica
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esAlcoholica
   inspection: HasUsage:esWhisky
-- binding: esWhisky
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esWhisky
   inspection: Not:HasBinding
-- binding: esVino
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esVino
   inspection: Not:HasBinding

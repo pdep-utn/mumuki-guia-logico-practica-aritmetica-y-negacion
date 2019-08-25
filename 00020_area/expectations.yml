@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: area
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: area
   inspection: HasBinding
